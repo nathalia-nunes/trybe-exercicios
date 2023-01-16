@@ -1,0 +1,25 @@
+# index.html
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+    <ul>
+        <li><a href="#pessoa1">Geovana</a></li>
+        <li><a href="#pessoa2">Victor</a></li>
+        <li><a href="#pessoa3">Felipe</a></li>
+    </ul>
+        <img src="https://www.google.com/search?q=comando+alt+no+html+significado&rlz=1C5CHFA_enBR958BR958&sxsrf=AJOqlzWuL430AjJytlHpdyuN1rapmIQW4g:1673893176570&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjUr7mB2sz8AhXArZUCHeCeDo4Q_AUoAXoECAEQAw&biw=1273&bih=688&dpr=2#imgrc=RCa7XBlkfaKavM" alt="img HTML">
+        <img src="cópia de IMG_1716" alt="foto perfil">
+
+        <p id="pessoa1">Obrigada por toda disponibilidade</p>
+        <p id="pessoa2">Você também trabalha com um mac</p>
+        <p id="pessoa3">Muito bom ter um colega nordestino</p>
+
+        <a href="https://www.google.com.br/" target="_blank">Google</a>
+        
+  </body>
+</html>
