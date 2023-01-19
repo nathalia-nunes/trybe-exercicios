@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Jhonatan Reis](https://linkedin.com/in/jhonatec)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Nathália Nunes](https://www.linkedin.com/in/nathalianunesm/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -19,8 +19,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 2-1: _HTLM & CSS - Estruturas de página_
 - [x] 2-2: _HTML & CSS - Primeiros passos em CSS_
-- [ ] 2-3: _HTML & CSS = Seletores e posicionamento_
-- [ ] 2-4: _HTML Semântico_
+- [x] 2-3: _HTML & CSS = Seletores e posicionamento_
+- [x] 2-4: _HTML Semântico_
 - [ ] 2-5: _Projeto - Lessons Learned_  
 
 [mais em breve...]
