@@ -19,19 +19,20 @@
 //   console.log('zero');
 //}
 
-const angulo1 = 100;
-const angulo2 = 15;
-const angulo3 = 65;
+//const angulo1 = 100;
+//const angulo2 = 15;
+//const angulo3 = 65;
 
-let somaDosAngulos = angulo1 + angulo2 + angulo3;
-let anguloPositivo = angulo1 > 0 && angulo2 > 0 && angulo3 > 0;
+//let somaDosAngulos = angulo1 + angulo2 + angulo3;
+//let anguloPositivo = angulo1 > 0 && angulo2 > 0 && angulo3 > 0;
 
-if (anguloPositivo) {
-if (somaDosAngulos === 180) {
-    console.log(true);
-} else {
-    console.log(false);
-}; 
-} else {
-    console.log("erro: ângulo inválido!");
-}
+//if (anguloPositivo) {
+//if (somaDosAngulos === 180) {
+//    console.log(true);
+//} else {
+//    console.log(false);
+//}; 
+//} else {
+//    console.log("erro: ângulo inválido!");
+//}
+
