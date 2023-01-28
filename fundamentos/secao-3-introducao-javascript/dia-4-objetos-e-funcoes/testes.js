@@ -15,3 +15,8 @@ const compareTrue = (animal1, animal2) => {
 console.log(compareTrue(elefante, macaco));
 
 // Requisito 2
+const splitSentence = (palavra) => {
+    let array = palavra.split(" ");
+    return array
+}
+console.log(splitSentence('go trybe'));
