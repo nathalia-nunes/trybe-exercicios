@@ -3,16 +3,16 @@
 const girafa = true;
 const elefante = true;
 const macaco = false;
-//const compareTrue = (animal1, animal2) => animal1 && animal2;
+const compareTrue = (animal1, animal2) => animal1 && animal2;
 
-const compareTrue = (animal1, animal2) => {
-    if (animal1 && animal2 === true) {
-        return true;
-    } else if (animal1 && animal2 === false) {
-        return false;
-    }
-}
-console.log(compareTrue(macaco, macaco));
+//const compareTrue = (animal1, animal2) => {
+//    if (animal1 && animal2 === true) {
+//        return true;
+//    } else if (animal1 && animal2 === false) {
+//        return false;
+ //   }
+//}
+//console.log(compareTrue(macaco, macaco));
 
 
 // Requisito 2
@@ -61,10 +61,8 @@ const highestCount = (arrayNumero) => {
 console.log(highestCount([9, 1, 2, 3, 9, 5, 7]));
 
 // Requisito 6 
-const calcTriangleArea = (base, height) => (base * height) / 2;
-const calcRectangleArea = (base, height) => (base * height);
-console.log(calcTriangleArea(10, 50));
-
+const calcTriangleArea = (base, height) => (return base * height) / 2;
+const calcRectangleArea = (base, height) => (return base * height);
 const calcAllAreas = (base, height, form) => {
     if (form === 'triângulo') {
         return `O valor da área do triângulo é de: ${calcTriangleArea(base, height)}`;
@@ -73,6 +71,7 @@ const calcAllAreas = (base, height, form) => {
     } else { return 'Não foi possível fazer o cálculo, insira uma forma geométrica válida' };
 }
 
+console.log(calcTriangleArea(10, 50));
 console.log(calcAllAreas(10, 50, 'quadrado'));
 
 // Requisito 7
