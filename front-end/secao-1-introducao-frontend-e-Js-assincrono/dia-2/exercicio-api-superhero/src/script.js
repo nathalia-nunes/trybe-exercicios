@@ -1,6 +1,6 @@
 import Swal from 'sweetalert2';
 
-const img = document.querySelector('#img');
+const img = document.querySelector('#img-pet');
 const nameSH = document.querySelector('#nameSH');
 const btnSort = document.querySelector('#btnSort');
 const urlSh = 'https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/id';
@@ -11,7 +11,7 @@ const alert = () => Swal.fire({
   icon: 'error',
   title: 'Oops...',
   text: 'Não foi possível encontrar o herói!',
-  footer: '<a href="">Why do I have this issue?</a>'
+  footer: 'Tente outra vez',
 });
 
 const getHero = () => {
